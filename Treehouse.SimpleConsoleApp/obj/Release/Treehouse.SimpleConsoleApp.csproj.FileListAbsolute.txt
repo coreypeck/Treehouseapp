@@ -1,0 +1,6 @@
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\bin\Release\Treehouse.SimpleConsoleApp.exe.config
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\bin\Release\Treehouse.SimpleConsoleApp.exe
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\bin\Release\Treehouse.SimpleConsoleApp.pdb
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\obj\Release\Treehouse.SimpleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\obj\Release\Treehouse.SimpleConsoleApp.exe
+C:\Users\Corey\Desktop\Treehouse.SimpleConsoleApp\Treehouse.SimpleConsoleApp\obj\Release\Treehouse.SimpleConsoleApp.pdb
